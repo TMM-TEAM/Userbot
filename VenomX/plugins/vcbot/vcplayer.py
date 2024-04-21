@@ -1,4 +1,4 @@
-# Powered By // @AdityaHalder //
+# Powered By // @tmm_heroku_world //
 
 __NAME__ = "VcPlayer"
 __MENU__ = """
