@@ -5,26 +5,18 @@
 # ㅤㅤ ᴛᴇᴀᴍ ᴛᴍᴍ ⚡
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ & ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴠᴇɴᴏᴍ 🖤](https://t.me/moh_maya_official)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🤍 ᴛᴇᴀᴍ ᴛᴍᴍ 🤍](https://t.me/moh_maya_official)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # ㅤㅤㅤDᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
 ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴠᴇɴᴏᴍx​
 <p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/TMM-TEAM/Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
-
-# ㅤㅤㅤCʀᴇᴅɪᴛs ✌
-
-
-- [ᴠᴇɴᴏᴍ](https://github.com/venombolteop)ㅤㅤㅤ
-
-- [ɢᴇɴɪᴜs-ᴜsᴇʀʙᴏᴛ](https://github.com/AdityaHalder/Genius-Userbot)ㅤㅤㅤㅤㅤ
-
 - [PʏTɢCᴀʟʟs](https://github.com/pytgcalls/pytgcalls)
 
 - [Pʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
 
-━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
