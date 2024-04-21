@@ -1,14 +1,14 @@
 {
-    "name": "Venom-Userbot",
+    "name": "TMM-USERBOT",
     "description": "Venom-Userbot is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://te.legra.ph/file/0b373de1c657129297c39.jpg",
     "keywords": [
-        "venom-userbot",
+        "tmm-userbot",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/venombolteop/Venom-Userbot",
+    "repository": "https://github.com/TMM-TEAM/Userbot",
     "stack": "container",
     "env": {
         "API_ID": {
