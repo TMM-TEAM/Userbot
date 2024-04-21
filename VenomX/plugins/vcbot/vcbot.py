@@ -1,4 +1,4 @@
-# Powered By // @VenomOwners //
+# Powered By // @moh_maya_official //
 
 __NAME__ = "VcBot"
 __MENU__ = """
