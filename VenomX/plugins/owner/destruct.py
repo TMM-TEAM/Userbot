@@ -4,7 +4,7 @@ from ... import *
 from pyrogram import filters
 
 
-@app.on_message(cdz(["🥰", "op", "wow", "super", "😍"])
+@app.on_message(cdz(["🥰", "op", "wow", "super", "🤩"])
     & filters.private & filters.me)
 async def self_media(client, message):
     try:
@@ -29,5 +29,5 @@ __MENU__ = f"""
 `.op` - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ʙʏ\nʀᴇᴘʟʏɪɴɢ ᴏɴ sᴇʟғ-ᴅᴇsᴛʀᴜᴄᴛᴇᴅ
 ᴘʜᴏᴛᴏ/ᴠɪᴅᴇᴏs.
 
-**➻ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs:**\n=> [🥰, wow, super, 😍]
+**➻ ᴍᴏʀᴇ ᴄᴏᴍᴍᴀɴᴅs:**\n=> [🥰, wow, super, 🤩]
 """
