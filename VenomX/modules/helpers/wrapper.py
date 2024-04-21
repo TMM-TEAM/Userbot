@@ -68,7 +68,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "【 ᴅᴇᴘʟᴏʏ ᴠᴇɴᴏᴍ ✘ ᴜsᴇʀʙᴏᴛ 】",
-                            url=f"https://github.com/venombolteop/Venom-Userbot"
+                            url=f"https://github.com/TMM-TEAM/Userbot"
                         )
                     ]
                 ]
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**➻ ᴘʟᴇᴀsᴇ, ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴠᴇɴᴏᴍ ✘ ᴜsᴇʀʙᴏᴛ❗...\n\nʀᴇᴘᴏ:** <i>https://github.com/venombolteop/Venom-Userbot/</i>||"
+                                    f"||**➻ ᴘʟᴇᴀsᴇ, ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴠᴇɴᴏᴍ ✘ ᴜsᴇʀʙᴏᴛ❗...\n\nʀᴇᴘᴏ:** <i>https://github.com/TMM-TEAM/Userbot</i>||"
                                 ),
                             )
                         )
