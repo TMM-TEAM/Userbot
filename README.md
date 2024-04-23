@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/tmm_heroku_world"><img src="https://te.legra.ph/file/0b373de1c657129297c39.jpg"></a></p>
+<p align="center"><a href="https://t.me/tmm_heroku_world"><img src="https://graph.org/file/b6d415deb9bd5be03d7cc.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
