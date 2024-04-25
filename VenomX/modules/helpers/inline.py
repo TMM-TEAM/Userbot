@@ -11,7 +11,7 @@ async def help_menu_logo(answer):
     if image:
         thumb_image = image
     else:
-        thumb_image = "https://te.legra.ph/file/0b373de1c657129297c39.jpg"
+        thumb_image = "https://graph.org/file/b6d415deb9bd5be03d7cc.jpg"
     button = paginate_plugins(0, plugs, "help")
     answer.append(
         InlineQueryResultPhoto(
@@ -26,7 +26,7 @@ async def help_menu_logo(answer):
 ➻ ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs.
 
-➻ ᴜsᴇʀʙᴏᴛ ʙʏ : [ᴠᴇɴᴏᴍ ᴛᴇᴄʜ](https://t.me/VenomOwners).**
+➻ ᴜsᴇʀʙᴏᴛ ʙʏ : [ᴠᴇɴᴏᴍ ᴛᴇᴄʜ](https://t.me/tmm_heroku_world).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ async def help_menu_text(answer):
 ➻ ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs.
 
-➻ ᴜsᴇʀʙᴏᴛ ʙʏ : [ᴠᴇɴᴏᴍ ᴛᴇᴄʜ](https://t.me/VenomOwners).**""",
+➻ ᴜsᴇʀʙᴏᴛ ʙʏ : [ᴠᴇɴᴏᴍ ᴛᴇᴄʜ](https://t.me/tmm_heroku_world).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
